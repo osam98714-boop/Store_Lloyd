@@ -1,0 +1,16 @@
+{
+  "short_name": "L-Bots",
+  "name": "L-Bots Store | متجر المعماري",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./index.html",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#00ffcc"
+}
